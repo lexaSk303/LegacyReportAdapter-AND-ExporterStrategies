@@ -6,8 +6,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyReportAdapter", "Lega
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LegacyReportAdapter.Tests", "LegacyReportAdapter.Tests\LegacyReportAdapter.Tests.csproj", "{A1E4EC01-7F44-4A01-9A01-000000000002}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExporterStrategies.Tests", "..\Practice02_ExporterStrategies\ExporterStrategies.Tests\ExporterStrategies.Tests.csproj", "{9AA0BDED-4317-9127-FE02-5CCA87B469D6}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExporterStrategies", "..\Practice02_ExporterStrategies\ExporterStrategies\ExporterStrategies.csproj", "{08A5E217-87D7-F712-89B6-E5392956523B}"
 EndProject
 Global
@@ -24,10 +22,6 @@ Global
 		{A1E4EC01-7F44-4A01-9A01-000000000002}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A1E4EC01-7F44-4A01-9A01-000000000002}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A1E4EC01-7F44-4A01-9A01-000000000002}.Release|Any CPU.Build.0 = Release|Any CPU
-		{9AA0BDED-4317-9127-FE02-5CCA87B469D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{9AA0BDED-4317-9127-FE02-5CCA87B469D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{9AA0BDED-4317-9127-FE02-5CCA87B469D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{9AA0BDED-4317-9127-FE02-5CCA87B469D6}.Release|Any CPU.Build.0 = Release|Any CPU
 		{08A5E217-87D7-F712-89B6-E5392956523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{08A5E217-87D7-F712-89B6-E5392956523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{08A5E217-87D7-F712-89B6-E5392956523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
